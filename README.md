@@ -1,16 +1,94 @@
-# React + Vite
+# React To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
 
-Currently, two official plugins are available:
+This is a simple To-Do List application built using React with Vite. The application allows users to manage daily tasks by adding, editing, deleting, and marking tasks as completed. The data entered by the user is stored in the browser's local storage to ensure persistence even after refreshing the page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Add new tasks
+* Edit existing tasks
+* Delete tasks
+* Mark tasks as completed
+* Save tasks in local storage
+* User-friendly interface with CSS styling
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies Used
+
+* React JS
+* Vite
+* JavaScript
+* HTML
+* CSS
+
+---
+
+## 📂 Project Setup Instructions
+
+Follow the steps below to run this project on your local machine.
+
+### Step 1: Clone the Repository or Download the Project
+
+Download the project folder and open it in Visual Studio Code.
+
+---
+
+### Step 2: Navigate to Project Directory
+
+Open terminal and run:
+
+```
+cd book-management
+```
+
+---
+
+### Step 3: Install Node Modules
+
+Install all the required dependencies by running:
+
+```
+npm install
+```
+
+---
+
+### Step 4: Run the Application
+
+Start the development server by running:
+
+```
+npm run dev
+```
+
+---
+
+### Step 5: Open in Browser
+
+After running the above command, you will see a local server link such as:
+
+```
+http://localhost:5173/
+```
+
+Open this link in your browser to view the application.
+
+---
+
+## 📌 Note
+
+If node_modules folder is deleted, reinstall the dependencies by running:
+
+```
+npm install
+```
+
+---
+
+## 👨‍💻 Author
+
+Developed as part of React assignment.
