@@ -31,6 +31,12 @@ This is a simple To-Do List application built using React with Vite. The applica
 
 Follow the steps below to run this project on your local machine.
 
+### Create React Project Using Vite
+
+```
+npm create vite@latest
+```
+
 ### Step 1: Clone the Repository or Download the Project
 
 Download the project folder and open it in Visual Studio Code.
@@ -42,7 +48,7 @@ Download the project folder and open it in Visual Studio Code.
 Open terminal and run:
 
 ```
-cd book-management
+cd To-Do-List-App
 ```
 
 ---
