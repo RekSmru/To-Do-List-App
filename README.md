@@ -95,6 +95,3 @@ npm install
 
 ---
 
-## 👨‍💻 Author
-
-Developed as part of React assignment.
